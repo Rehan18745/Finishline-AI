@@ -1,0 +1,6 @@
+{
+  "name": "Finishline AI",
+  "description": "Autonomous AI deadline rescue system built to mitigate timeline failures and proactively structure deep work schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
